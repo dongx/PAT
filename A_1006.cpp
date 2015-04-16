@@ -39,7 +39,5 @@ int main()
     printf("%s %s",stu[minId].id,stu[maxId].id);
 }
 
-void readRecords(){
 
-}
 
